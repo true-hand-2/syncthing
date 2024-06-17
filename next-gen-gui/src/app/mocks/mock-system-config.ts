@@ -24,6 +24,16 @@ export const config = {
         "insecureAdminAccess": false,
         "theme": "default"
     },
+      "gui2": {
+        "enabled": true,
+        "address": "127.0.0.1:8384",
+        "user": "Username",
+        "password": "$2a$10$ZFws69T4FlvWwsqeIwL.TOo5zOYqsa/.TxlUnsGYS.j3JvjFTmxo6",
+        "useTLS": false,
+        "apiKey": "pGahcht56664QU5eoFQW6szbEG6Ec2Cr",
+        "insecureAdminAccess": false,
+        "theme": "default"
+    },
     "options": {
         "listenAddresses": [
             "default"
