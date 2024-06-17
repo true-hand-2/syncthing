@@ -79,3 +79,4 @@ func TestVerify(t *testing.T) {
 		t.Fatal("signature should not match")
 	}
 }
+
